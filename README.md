@@ -16,3 +16,5 @@ Then the following steps have to be done:
   ````bashscript
   python3 lernraumbot.py bib1vormittags 1
   ````
+
+![alt text](https://logos-download.com/wp-content/uploads/2019/07/RWTH_Aachen_University_Logo.png)
