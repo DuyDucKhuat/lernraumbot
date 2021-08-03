@@ -1,5 +1,4 @@
 # lernraumbot
-Lernraumbot
 Make sure to install python3 and install all missing packages with pip3.
 
 For further informations see 
