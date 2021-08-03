@@ -1,0 +1,6 @@
+bib2vormittags = "BS_Kursid_178675"
+bib2nachmittags = "BS_Kursid_178676"
+bib1vormittags = "BS_Kursid_178577"
+bib1nachmittags = "BS_Kursid_178579"
+semi90vormittags = "BS_Kursid_178491"
+semi90nachmittags = "BS_Kursid_178492"
